@@ -18,7 +18,7 @@
 <div class="flex flex-col items-center h-screen">
     {#if isVisible}
         <div class="icon-container">
-            <img src="/src/pics/lock.png" alt="Icon" class="icon" />
+            <img src="../src/pics/lock.png" alt="Icon" class="icon" />
           </div>
         <NavBar />
         <img
