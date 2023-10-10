@@ -31,7 +31,7 @@
 
   @font-face {
     font-family: "headings";
-    src: url("src/fonts/Raleway-Bold.ttf") format("truetype");
+    src: url("/src/fonts/Raleway-Bold.ttf") format("truetype");
   }
 
   .font-heading {

@@ -148,7 +148,7 @@
 
     @font-face {
         font-family: "navbar";
-        src: url("src/fonts/Aileron-Black.otf") format("truetype");
+        src: url("/src/fonts/Aileron-Black.otf") format("truetype");
     }
 
     .font-nav {
@@ -161,7 +161,7 @@
 
     @font-face {
         font-family: "headings";
-        src: url("src/fonts/Raleway-Bold.ttf") format("truetype");
+        src: url("/src/fonts/Raleway-Bold.ttf") format("truetype");
     }
 
     .font-heading {
